@@ -1,6 +1,5 @@
 # Voice Classification
-The goal of this Repo is to utilize Deepl learning to categorize photos from the 102 Flowers collection. There are thousands of photos in the 102 Flowers collection, which includes 102 categories of flowers. The project's aim is to build a classification model that can correctly detect and classify new photos of flowers.
-this dataset contains images of flowers belonging to 102 different categories. The images were acquired by searching the web and taking pictures. There are a minimum of 40 images for each category.
+The goal of this Repo is to utilize Deepl learning to Classify voices on a custom dataset. There are around 200 of voices for each separated class. The project's aim is to build a classification model that can correctly detect and classify Voices from 13 different clips.
 
 ## Dataset:
 This data was collected manually which included 13 Classes one class for each person except for one class labeled as Unkown or Random Voice, Each labeled class has around 200 audio clips each clip was around 8 seconds. Unfortunately the data not available for the public if you want the data you can DM.
