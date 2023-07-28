@@ -6,8 +6,8 @@ This data was collected manually which included 13 Classes one class for each pe
 
 ## Installation Instructions:
 - You can download the **Base_model.ipynb** if you want to train the model again.
-- If you want to see how to use the model or how to test it for the single clip you can download both **model.h5 - Untitled1.ipynb**.
-- If you want to see how to use the model but in realtime to classify the voices you can download both **model.h5 - Untitled1.ipynb**.
+- If you want to see how to use the model or how to test it for the single clip you can download both **model.h5 - Test.ipynb**.
+- If you want to see how to use the model but in realtime to classify the voices you can download both **model.h5 - Test.ipynb**.
 
 
 ## Contact:
